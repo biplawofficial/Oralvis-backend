@@ -12,7 +12,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors({ 
-  origin: 'https://oralvis-frontend-one.vercel.app', 
+  origin: 'https://oralvis-frontend-nu1s4uc1s-biplaws-projects.vercel.app', 
   credentials: true 
 }));
 app.use(express.json());
