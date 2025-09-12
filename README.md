@@ -35,7 +35,7 @@ Follow these instructions to get the backend server up and running on your local
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/biplawofficial/Oralvis-backend.git
     cd Oralvis-backend
     ```
 
