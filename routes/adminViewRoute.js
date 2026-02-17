@@ -166,7 +166,8 @@ router.post("/get-image", auth("admin"), (req, res) => {
     res.setHeader('Content-Type', contentType);
     
     const fileStream = fs.createReadStream(absolutePath);
-    fileStream.pipe(res);
+    fileStream.pipe(res);  
+  
   } catch (error) {
     console.error("get-image error:", error);
     return res.status(500).json({ message: error.message || "Server error" });
