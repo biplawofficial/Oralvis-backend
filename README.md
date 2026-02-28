@@ -15,7 +15,7 @@ The server-side application for the OralVis Healthcare System. A Node.js/Express
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14+)
+- [Node.js](https://nodejs.org/) 
 - [MongoDB](https://www.mongodb.com/try/download/community) (running locally or cloud URI)
 
 ### Installation
