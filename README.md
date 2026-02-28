@@ -29,7 +29,7 @@ The server-side application for the OralVis Healthcare System. A Node.js/Express
 2.  **Environment Setup:**
     Create a `.env` file in this directory:
 
-    ```env
+    ```.env
     MONGO_URI=mongodb://localhost:27017/oralvis
     JWT_SECRET=your_super_secret_key
     PORT=3001
