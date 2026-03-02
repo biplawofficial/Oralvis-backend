@@ -23,7 +23,7 @@ The server-side application for the OralVis Healthcare System. A Node.js/Express
 1.  **Install dependencies:**
 
     ```bash
-    npm install
+    npm i
     ```
 
 2.  **Environment Setup:**
